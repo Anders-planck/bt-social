@@ -1,3 +1,6 @@
+<!--
+  //TODO : complete my index vue
+-->
 <template>
   <q-page class="flex flex-center">
     <img
@@ -10,5 +13,6 @@
 <script>
 export default {
   name: 'PageIndex'
+
 }
 </script>
